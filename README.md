@@ -1,3 +1,3 @@
 # hello-world
-first code here
+first code
 programming is amazing:
